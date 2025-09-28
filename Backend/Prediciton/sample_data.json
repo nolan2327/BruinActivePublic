@@ -1,0 +1,2362 @@
+[
+  {
+    "facility": 2,
+    "total_population": 171,
+    "total_percentage": 34,
+    "time_collected": "2025-09-27 17:31:22",
+    "last_updated": "09/27/2025 05:29 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 23,
+        "percentage": 38,
+        "_id": "68d881da0cb629a9551dc894"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 26,
+        "percentage": 40,
+        "_id": "68d881da0cb629a9551dc895"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 13,
+        "percentage": 33,
+        "_id": "68d881da0cb629a9551dc896"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 14,
+        "percentage": 31,
+        "_id": "68d881da0cb629a9551dc897"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d881da0cb629a9551dc898"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d881da0cb629a9551dc899"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 61,
+        "percentage": 61,
+        "_id": "68d881da0cb629a9551dc89a"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 34,
+        "percentage": 68,
+        "_id": "68d881da0cb629a9551dc89b"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 183,
+    "total_percentage": 38,
+    "time_collected": "2025-09-27 17:01:22",
+    "last_updated": "09/27/2025 04:42 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 25,
+        "percentage": 42,
+        "_id": "68d87ad24c96330804d28e97"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 35,
+        "percentage": 54,
+        "_id": "68d87ad24c96330804d28e98"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 20,
+        "percentage": 50,
+        "_id": "68d87ad24c96330804d28e99"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 15,
+        "percentage": 33,
+        "_id": "68d87ad24c96330804d28e9a"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d87ad24c96330804d28e9b"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d87ad24c96330804d28e9c"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 48,
+        "percentage": 48,
+        "_id": "68d87ad24c96330804d28e9d"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 40,
+        "percentage": 80,
+        "_id": "68d87ad24c96330804d28e9e"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 116,
+    "total_percentage": 25,
+    "time_collected": "2025-09-27 15:31:21",
+    "last_updated": "09/27/2025 03:27 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 20,
+        "percentage": 33,
+        "_id": "68d865ba57661b645cf164ba"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 25,
+        "percentage": 38,
+        "_id": "68d865ba57661b645cf164bb"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 12,
+        "percentage": 30,
+        "_id": "68d865ba57661b645cf164bc"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 7,
+        "percentage": 16,
+        "_id": "68d865ba57661b645cf164bd"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d865ba57661b645cf164be"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d865ba57661b645cf164bf"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 22,
+        "percentage": 22,
+        "_id": "68d865ba57661b645cf164c0"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 30,
+        "percentage": 60,
+        "_id": "68d865ba57661b645cf164c1"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 144,
+    "total_percentage": 29,
+    "time_collected": "2025-09-27 15:01:18",
+    "last_updated": "09/27/2025 02:43 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 19,
+        "percentage": 32,
+        "_id": "68d85eae272993e93b7cc1d2"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 27,
+        "percentage": 42,
+        "_id": "68d85eae272993e93b7cc1d3"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 12,
+        "percentage": 30,
+        "_id": "68d85eae272993e93b7cc1d4"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 7,
+        "percentage": 16,
+        "_id": "68d85eae272993e93b7cc1d5"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d85eae272993e93b7cc1d6"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d85eae272993e93b7cc1d7"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 48,
+        "percentage": 48,
+        "_id": "68d85eae272993e93b7cc1d8"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 31,
+        "percentage": 62,
+        "_id": "68d85eae272993e93b7cc1d9"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 128,
+    "total_percentage": 26,
+    "time_collected": "2025-09-27 13:31:15",
+    "last_updated": "09/27/2025 01:19 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 23,
+        "percentage": 38,
+        "_id": "68d84994101e2abab5d79e59"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 40,
+        "percentage": 62,
+        "_id": "68d84994101e2abab5d79e5a"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 8,
+        "percentage": 20,
+        "_id": "68d84994101e2abab5d79e5b"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d84994101e2abab5d79e5c"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d84994101e2abab5d79e5d"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d84994101e2abab5d79e5e"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 25,
+        "percentage": 25,
+        "_id": "68d84994101e2abab5d79e5f"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 32,
+        "percentage": 64,
+        "_id": "68d84994101e2abab5d79e60"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 139,
+    "total_percentage": 29,
+    "time_collected": "2025-09-27 12:31:16",
+    "last_updated": "09/27/2025 12:23 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 32,
+        "percentage": 53,
+        "_id": "68d83b850b0e7f0707879258"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 33,
+        "percentage": 51,
+        "_id": "68d83b850b0e7f0707879259"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 12,
+        "percentage": 30,
+        "_id": "68d83b850b0e7f070787925a"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d83b850b0e7f070787925b"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d83b850b0e7f070787925c"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d83b850b0e7f070787925d"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 28,
+        "percentage": 28,
+        "_id": "68d83b850b0e7f070787925e"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 34,
+        "percentage": 68,
+        "_id": "68d83b850b0e7f070787925f"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 118,
+    "total_percentage": 24,
+    "time_collected": "2025-09-27 11:31:23",
+    "last_updated": "09/27/2025 11:22 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 32,
+        "percentage": 53,
+        "_id": "68d82d7cf5e4217527df131f"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 27,
+        "percentage": 42,
+        "_id": "68d82d7cf5e4217527df1320"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 7,
+        "percentage": 18,
+        "_id": "68d82d7cf5e4217527df1321"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d82d7cf5e4217527df1322"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d82d7cf5e4217527df1323"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d82d7cf5e4217527df1324"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 24,
+        "percentage": 24,
+        "_id": "68d82d7cf5e4217527df1325"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 28,
+        "percentage": 56,
+        "_id": "68d82d7cf5e4217527df1326"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 129,
+    "total_percentage": 28,
+    "time_collected": "2025-09-27 11:01:17",
+    "last_updated": "09/27/2025 10:32 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 25,
+        "percentage": 42,
+        "_id": "68d8266eac9c75f5a1f1881a"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 38,
+        "percentage": 58,
+        "_id": "68d8266eac9c75f5a1f1881b"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 16,
+        "percentage": 40,
+        "_id": "68d8266eac9c75f5a1f1881c"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d8266eac9c75f5a1f1881d"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d8266eac9c75f5a1f1881e"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d8266eac9c75f5a1f1881f"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 18,
+        "percentage": 18,
+        "_id": "68d8266eac9c75f5a1f18820"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 32,
+        "percentage": 64,
+        "_id": "68d8266eac9c75f5a1f18821"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 111,
+    "total_percentage": 25,
+    "time_collected": "2025-09-27 09:31:22",
+    "last_updated": "09/27/2025 09:22 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 30,
+        "percentage": 50,
+        "_id": "68d8115b3fddb22b6d2f4025"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 31,
+        "percentage": 48,
+        "_id": "68d8115b3fddb22b6d2f4026"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 10,
+        "percentage": 25,
+        "_id": "68d8115b3fddb22b6d2f4027"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d8115b3fddb22b6d2f4028"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d8115b3fddb22b6d2f4029"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d8115b3fddb22b6d2f402a"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 2,
+        "percentage": 2,
+        "_id": "68d8115b3fddb22b6d2f402b"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 38,
+        "percentage": 76,
+        "_id": "68d8115b3fddb22b6d2f402c"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 69,
+    "total_percentage": 16,
+    "time_collected": "2025-09-27 08:31:21",
+    "last_updated": "09/27/2025 08:27 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 14,
+        "percentage": 23,
+        "_id": "68d80349d8c4d83bdd0eefdc"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 23,
+        "percentage": 35,
+        "_id": "68d80349d8c4d83bdd0eefdd"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 16,
+        "percentage": 40,
+        "_id": "68d80349d8c4d83bdd0eefde"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d80349d8c4d83bdd0eefdf"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d80349d8c4d83bdd0eefe0"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d80349d8c4d83bdd0eefe1"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d80349d8c4d83bdd0eefe2"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 16,
+        "percentage": 32,
+        "_id": "68d80349d8c4d83bdd0eefe3"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 80,
+    "total_percentage": 18,
+    "time_collected": "2025-09-26 21:01:01",
+    "last_updated": "09/26/2025 08:47 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 19,
+        "percentage": 32,
+        "_id": "68d7617dd9af2d9c8bbbd297"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 29,
+        "percentage": 45,
+        "_id": "68d7617dd9af2d9c8bbbd298"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 2,
+        "percentage": 5,
+        "_id": "68d7617dd9af2d9c8bbbd299"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 3,
+        "percentage": 7,
+        "_id": "68d7617dd9af2d9c8bbbd29a"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d7617dd9af2d9c8bbbd29b"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d7617dd9af2d9c8bbbd29c"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d7617dd9af2d9c8bbbd29d"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 27,
+        "percentage": 54,
+        "_id": "68d7617dd9af2d9c8bbbd29e"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 121,
+    "total_percentage": 28,
+    "time_collected": "2025-09-26 20:01:04",
+    "last_updated": "09/26/2025 07:40 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 22,
+        "percentage": 37,
+        "_id": "68d753704d59af9ef8e31d37"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 46,
+        "percentage": 71,
+        "_id": "68d753704d59af9ef8e31d38"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 11,
+        "percentage": 28,
+        "_id": "68d753704d59af9ef8e31d39"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 11,
+        "percentage": 24,
+        "_id": "68d753704d59af9ef8e31d3a"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d753704d59af9ef8e31d3b"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d753704d59af9ef8e31d3c"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d753704d59af9ef8e31d3d"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 31,
+        "percentage": 62,
+        "_id": "68d753704d59af9ef8e31d3e"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 154,
+    "total_percentage": 36,
+    "time_collected": "2025-09-26 19:01:03",
+    "last_updated": "09/26/2025 06:41 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 29,
+        "percentage": 48,
+        "_id": "68d745605a91486eef60cae6"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 52,
+        "percentage": 80,
+        "_id": "68d745605a91486eef60cae7"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 14,
+        "percentage": 35,
+        "_id": "68d745605a91486eef60cae8"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 16,
+        "percentage": 36,
+        "_id": "68d745605a91486eef60cae9"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d745605a91486eef60caea"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d745605a91486eef60caeb"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d745605a91486eef60caec"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 43,
+        "percentage": 86,
+        "_id": "68d745605a91486eef60caed"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 176,
+    "total_percentage": 39,
+    "time_collected": "2025-09-26 15:01:04",
+    "last_updated": "09/26/2025 02:46 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 30,
+        "percentage": 50,
+        "_id": "68d70d21d6a75bcc9829fdcd"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 40,
+        "percentage": 62,
+        "_id": "68d70d21d6a75bcc9829fdce"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 12,
+        "percentage": 30,
+        "_id": "68d70d21d6a75bcc9829fdcf"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 18,
+        "percentage": 40,
+        "_id": "68d70d21d6a75bcc9829fdd0"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d70d21d6a75bcc9829fdd1"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d70d21d6a75bcc9829fdd2"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 26,
+        "percentage": 26,
+        "_id": "68d70d21d6a75bcc9829fdd3"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 50,
+        "percentage": 100,
+        "_id": "68d70d21d6a75bcc9829fdd4"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 165,
+    "total_percentage": 36,
+    "time_collected": "2025-09-26 12:01:01",
+    "last_updated": "09/26/2025 11:50 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 35,
+        "percentage": 58,
+        "_id": "68d6e2eebdecbf9e4f8e45d2"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 39,
+        "percentage": 60,
+        "_id": "68d6e2eebdecbf9e4f8e45d3"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 22,
+        "percentage": 55,
+        "_id": "68d6e2eebdecbf9e4f8e45d4"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 8,
+        "percentage": 18,
+        "_id": "68d6e2eebdecbf9e4f8e45d5"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6e2eebdecbf9e4f8e45d6"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6e2eebdecbf9e4f8e45d7"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 22,
+        "percentage": 22,
+        "_id": "68d6e2eebdecbf9e4f8e45d8"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 39,
+        "percentage": 78,
+        "_id": "68d6e2eebdecbf9e4f8e45d9"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 137,
+    "total_percentage": 30,
+    "time_collected": "2025-09-26 10:31:02",
+    "last_updated": "09/26/2025 10:28 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 28,
+        "percentage": 47,
+        "_id": "68d6cdd67bc47dccf8cac342"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 34,
+        "percentage": 52,
+        "_id": "68d6cdd67bc47dccf8cac343"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 20,
+        "percentage": 50,
+        "_id": "68d6cdd67bc47dccf8cac344"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6cdd67bc47dccf8cac345"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6cdd67bc47dccf8cac346"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6cdd67bc47dccf8cac347"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 22,
+        "percentage": 22,
+        "_id": "68d6cdd67bc47dccf8cac348"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 33,
+        "percentage": 66,
+        "_id": "68d6cdd67bc47dccf8cac349"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 108,
+    "total_percentage": 25,
+    "time_collected": "2025-09-26 09:31:01",
+    "last_updated": "09/26/2025 09:30 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 18,
+        "percentage": 30,
+        "_id": "68d6bfc64ea5a974182b71e4"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 25,
+        "percentage": 38,
+        "_id": "68d6bfc64ea5a974182b71e5"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 24,
+        "percentage": 60,
+        "_id": "68d6bfc64ea5a974182b71e6"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6bfc64ea5a974182b71e7"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6bfc64ea5a974182b71e8"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6bfc64ea5a974182b71e9"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 12,
+        "percentage": 12,
+        "_id": "68d6bfc64ea5a974182b71ea"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 29,
+        "percentage": 58,
+        "_id": "68d6bfc64ea5a974182b71eb"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 108,
+    "total_percentage": 24,
+    "time_collected": "2025-09-26 09:01:08",
+    "last_updated": "09/26/2025 08:39 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 24,
+        "percentage": 40,
+        "_id": "68d6b8c430966f8fc45ec7bc"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 32,
+        "percentage": 49,
+        "_id": "68d6b8c430966f8fc45ec7bd"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 18,
+        "percentage": 45,
+        "_id": "68d6b8c430966f8fc45ec7be"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6b8c430966f8fc45ec7bf"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6b8c430966f8fc45ec7c0"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6b8c430966f8fc45ec7c1"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 7,
+        "percentage": 7,
+        "_id": "68d6b8c430966f8fc45ec7c2"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 27,
+        "percentage": 54,
+        "_id": "68d6b8c430966f8fc45ec7c3"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 96,
+    "total_percentage": 22,
+    "time_collected": "2025-09-26 07:31:03",
+    "last_updated": "09/26/2025 07:28 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 22,
+        "percentage": 37,
+        "_id": "68d6a3a740bb652ea0410120"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 30,
+        "percentage": 46,
+        "_id": "68d6a3a740bb652ea0410121"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 13,
+        "percentage": 33,
+        "_id": "68d6a3a740bb652ea0410122"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6a3a740bb652ea0410123"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6a3a740bb652ea0410124"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6a3a740bb652ea0410125"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d6a3a740bb652ea0410126"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 31,
+        "percentage": 62,
+        "_id": "68d6a3a740bb652ea0410127"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 64,
+    "total_percentage": 15,
+    "time_collected": "2025-09-26 06:31:01",
+    "last_updated": "09/26/2025 06:29 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 20,
+        "percentage": 33,
+        "_id": "68d69596aef512d9affbc35d"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 18,
+        "percentage": 28,
+        "_id": "68d69596aef512d9affbc35e"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 11,
+        "percentage": 28,
+        "_id": "68d69596aef512d9affbc35f"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d69596aef512d9affbc360"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d69596aef512d9affbc361"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d69596aef512d9affbc362"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d69596aef512d9affbc363"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 15,
+        "percentage": 30,
+        "_id": "68d69596aef512d9affbc364"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 24,
+    "total_percentage": 6,
+    "time_collected": "2025-09-26 06:01:02",
+    "last_updated": "09/26/2025 05:41 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 5,
+        "percentage": 8,
+        "_id": "68d68e8f1d10f03336b06465"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 8,
+        "percentage": 12,
+        "_id": "68d68e8f1d10f03336b06466"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 6,
+        "percentage": 15,
+        "_id": "68d68e8f1d10f03336b06467"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 1,
+        "percentage": 2,
+        "_id": "68d68e8f1d10f03336b06468"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d68e8f1d10f03336b06469"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d68e8f1d10f03336b0646a"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d68e8f1d10f03336b0646b"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 4,
+        "percentage": 8,
+        "_id": "68d68e8f1d10f03336b0646c"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 103,
+    "total_percentage": 24,
+    "time_collected": "2025-09-25 23:01:03",
+    "last_updated": "09/25/2025 10:39 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 21,
+        "percentage": 35,
+        "_id": "68d62c20bc5b6873269308fa"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 31,
+        "percentage": 48,
+        "_id": "68d62c20bc5b6873269308fb"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10,
+        "_id": "68d62c20bc5b6873269308fc"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 13,
+        "percentage": 29,
+        "_id": "68d62c20bc5b6873269308fd"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d62c20bc5b6873269308fe"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d62c20bc5b6873269308ff"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d62c20bc5b687326930900"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 34,
+        "percentage": 68,
+        "_id": "68d62c20bc5b687326930901"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 112,
+    "total_percentage": 27,
+    "time_collected": "2025-09-25 22:00:58",
+    "last_updated": "09/25/2025 09:43 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 18,
+        "percentage": 30,
+        "_id": "68d61e0afcea18bba1825365"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 28,
+        "percentage": 43,
+        "_id": "68d61e0afcea18bba1825366"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 10,
+        "percentage": 25,
+        "_id": "68d61e0afcea18bba1825367"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 14,
+        "percentage": 31,
+        "_id": "68d61e0afcea18bba1825368"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d61e0afcea18bba1825369"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d61e0afcea18bba182536a"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d61e0afcea18bba182536b"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 42,
+        "percentage": 84,
+        "_id": "68d61e0afcea18bba182536c"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 89,
+    "total_percentage": 21,
+    "time_collected": "2025-09-25 21:01:04",
+    "last_updated": "09/25/2025 08:31 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 11,
+        "percentage": 18,
+        "_id": "68d61000b1cba014c3a4f692"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 27,
+        "percentage": 42,
+        "_id": "68d61000b1cba014c3a4f693"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 12,
+        "percentage": 30,
+        "_id": "68d61000b1cba014c3a4f694"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 12,
+        "percentage": 27,
+        "_id": "68d61000b1cba014c3a4f695"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d61000b1cba014c3a4f696"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d61000b1cba014c3a4f697"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d61000b1cba014c3a4f698"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 27,
+        "percentage": 54,
+        "_id": "68d61000b1cba014c3a4f699"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 128,
+    "total_percentage": 29,
+    "time_collected": "2025-09-25 19:31:03",
+    "last_updated": "09/25/2025 07:28 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 30,
+        "percentage": 50,
+        "_id": "68d5fae8b5e6441d2161ae9c"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 40,
+        "percentage": 62,
+        "_id": "68d5fae8b5e6441d2161ae9d"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 6,
+        "percentage": 15,
+        "_id": "68d5fae8b5e6441d2161ae9e"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 12,
+        "percentage": 27,
+        "_id": "68d5fae8b5e6441d2161ae9f"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5fae8b5e6441d2161aea0"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5fae8b5e6441d2161aea1"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5fae8b5e6441d2161aea2"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 40,
+        "percentage": 80,
+        "_id": "68d5fae8b5e6441d2161aea3"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 174,
+    "total_percentage": 40,
+    "time_collected": "2025-09-25 18:01:03",
+    "last_updated": "09/25/2025 05:44 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 44,
+        "percentage": 73,
+        "_id": "68d5e5d0bf0fb3a94d4b970a"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 49,
+        "percentage": 75,
+        "_id": "68d5e5d0bf0fb3a94d4b970b"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 18,
+        "percentage": 45,
+        "_id": "68d5e5d0bf0fb3a94d4b970c"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 20,
+        "percentage": 44,
+        "_id": "68d5e5d0bf0fb3a94d4b970d"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5e5d0bf0fb3a94d4b970e"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5e5d0bf0fb3a94d4b970f"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5e5d0bf0fb3a94d4b9710"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 43,
+        "percentage": 86,
+        "_id": "68d5e5d0bf0fb3a94d4b9711"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 256,
+    "total_percentage": 52,
+    "time_collected": "2025-09-25 17:31:04",
+    "last_updated": "09/25/2025 04:36 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 46,
+        "percentage": 77,
+        "_id": "68d5dec9f7c2860bb2bb4bd0"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 53,
+        "percentage": 82,
+        "_id": "68d5dec9f7c2860bb2bb4bd1"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 17,
+        "percentage": 43,
+        "_id": "68d5dec9f7c2860bb2bb4bd2"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 21,
+        "percentage": 47,
+        "_id": "68d5dec9f7c2860bb2bb4bd3"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5dec9f7c2860bb2bb4bd4"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5dec9f7c2860bb2bb4bd5"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 73,
+        "percentage": 73,
+        "_id": "68d5dec9f7c2860bb2bb4bd6"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 46,
+        "percentage": 92,
+        "_id": "68d5dec9f7c2860bb2bb4bd7"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 278,
+    "total_percentage": 55,
+    "time_collected": "2025-09-25 15:01:00",
+    "last_updated": "09/25/2025 02:41 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 42,
+        "percentage": 70,
+        "_id": "68d5bb9ce82d92ea74eee330"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 55,
+        "percentage": 85,
+        "_id": "68d5bb9ce82d92ea74eee331"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 18,
+        "percentage": 45,
+        "_id": "68d5bb9ce82d92ea74eee332"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 30,
+        "percentage": 67,
+        "_id": "68d5bb9ce82d92ea74eee333"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5bb9ce82d92ea74eee334"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5bb9ce82d92ea74eee335"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 96,
+        "percentage": 96,
+        "_id": "68d5bb9ce82d92ea74eee336"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 37,
+        "percentage": 74,
+        "_id": "68d5bb9ce82d92ea74eee337"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 181,
+    "total_percentage": 41,
+    "time_collected": "2025-09-25 14:00:56",
+    "last_updated": "09/25/2025 01:43 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 41,
+        "percentage": 68,
+        "_id": "68d5ad88a269fe86b550d83e"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 53,
+        "percentage": 82,
+        "_id": "68d5ad88a269fe86b550d83f"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 16,
+        "percentage": 40,
+        "_id": "68d5ad88a269fe86b550d840"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 18,
+        "percentage": 40,
+        "_id": "68d5ad88a269fe86b550d841"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5ad88a269fe86b550d842"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5ad88a269fe86b550d843"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 10,
+        "percentage": 10,
+        "_id": "68d5ad88a269fe86b550d844"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 43,
+        "percentage": 86,
+        "_id": "68d5ad88a269fe86b550d845"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 204,
+    "total_percentage": 46,
+    "time_collected": "2025-09-25 12:01:06",
+    "last_updated": "09/25/2025 11:33 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 46,
+        "percentage": 77,
+        "_id": "68d5917367c3e08f62cd18b1"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 50,
+        "percentage": 77,
+        "_id": "68d5917367c3e08f62cd18b2"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 25,
+        "percentage": 63,
+        "_id": "68d5917367c3e08f62cd18b3"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 20,
+        "percentage": 44,
+        "_id": "68d5917367c3e08f62cd18b4"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5917367c3e08f62cd18b5"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5917367c3e08f62cd18b6"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 18,
+        "percentage": 18,
+        "_id": "68d5917367c3e08f62cd18b7"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 45,
+        "percentage": 90,
+        "_id": "68d5917367c3e08f62cd18b8"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 186,
+    "total_percentage": 41,
+    "time_collected": "2025-09-25 11:01:04",
+    "last_updated": "09/25/2025 10:40 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 46,
+        "percentage": 77,
+        "_id": "68d58360e883b5c8ade5c290"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 47,
+        "percentage": 72,
+        "_id": "68d58360e883b5c8ade5c291"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 13,
+        "percentage": 33,
+        "_id": "68d58360e883b5c8ade5c292"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 20,
+        "percentage": 44,
+        "_id": "68d58360e883b5c8ade5c293"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d58360e883b5c8ade5c294"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d58360e883b5c8ade5c295"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 18,
+        "percentage": 18,
+        "_id": "68d58360e883b5c8ade5c296"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 42,
+        "percentage": 84,
+        "_id": "68d58360e883b5c8ade5c297"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 153,
+    "total_percentage": 34,
+    "time_collected": "2025-09-25 10:01:04",
+    "last_updated": "09/25/2025 09:40 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 34,
+        "percentage": 57,
+        "_id": "68d57550e92f39dd3cef8daa"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 35,
+        "percentage": 54,
+        "_id": "68d57550e92f39dd3cef8dab"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 15,
+        "percentage": 38,
+        "_id": "68d57550e92f39dd3cef8dac"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 11,
+        "percentage": 24,
+        "_id": "68d57550e92f39dd3cef8dad"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d57550e92f39dd3cef8dae"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d57550e92f39dd3cef8daf"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 17,
+        "percentage": 17,
+        "_id": "68d57550e92f39dd3cef8db0"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 41,
+        "percentage": 82,
+        "_id": "68d57550e92f39dd3cef8db1"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 114,
+    "total_percentage": 25,
+    "time_collected": "2025-09-25 08:31:09",
+    "last_updated": "09/25/2025 08:27 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 27,
+        "percentage": 45,
+        "_id": "68d5603e4a9cd48eaa0ab667"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 30,
+        "percentage": 46,
+        "_id": "68d5603e4a9cd48eaa0ab668"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 7,
+        "percentage": 18,
+        "_id": "68d5603e4a9cd48eaa0ab669"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 13,
+        "percentage": 29,
+        "_id": "68d5603e4a9cd48eaa0ab66a"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5603e4a9cd48eaa0ab66b"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5603e4a9cd48eaa0ab66c"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 13,
+        "percentage": 13,
+        "_id": "68d5603e4a9cd48eaa0ab66d"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 24,
+        "percentage": 48,
+        "_id": "68d5603e4a9cd48eaa0ab66e"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 90,
+    "total_percentage": 21,
+    "time_collected": "2025-09-25 07:31:01",
+    "last_updated": "09/25/2025 07:26 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 24,
+        "percentage": 40,
+        "_id": "68d5522522b5c1cd5f448b8d"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 28,
+        "percentage": 43,
+        "_id": "68d5522522b5c1cd5f448b8e"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 9,
+        "percentage": 23,
+        "_id": "68d5522522b5c1cd5f448b8f"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 9,
+        "percentage": 20,
+        "_id": "68d5522522b5c1cd5f448b90"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5522522b5c1cd5f448b91"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5522522b5c1cd5f448b92"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5522522b5c1cd5f448b93"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 20,
+        "percentage": 40,
+        "_id": "68d5522522b5c1cd5f448b94"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 67,
+    "total_percentage": 16,
+    "time_collected": "2025-09-25 06:30:53",
+    "last_updated": "09/25/2025 06:27 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 18,
+        "percentage": 30,
+        "_id": "68d5440d1e3ae927c6aba40a"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 16,
+        "percentage": 25,
+        "_id": "68d5440d1e3ae927c6aba40b"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 10,
+        "percentage": 25,
+        "_id": "68d5440d1e3ae927c6aba40c"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 5,
+        "percentage": 11,
+        "_id": "68d5440d1e3ae927c6aba40d"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5440d1e3ae927c6aba40e"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5440d1e3ae927c6aba40f"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d5440d1e3ae927c6aba410"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 18,
+        "percentage": 36,
+        "_id": "68d5440d1e3ae927c6aba411"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 18,
+    "total_percentage": 4,
+    "time_collected": "2025-09-25 06:01:03",
+    "last_updated": "09/25/2025 05:34 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 4,
+        "percentage": 7,
+        "_id": "68d53d0fb5e77878066ec201"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 5,
+        "percentage": 8,
+        "_id": "68d53d0fb5e77878066ec202"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8,
+        "_id": "68d53d0fb5e77878066ec203"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d53d0fb5e77878066ec204"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d53d0fb5e77878066ec205"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d53d0fb5e77878066ec206"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d53d0fb5e77878066ec207"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 6,
+        "percentage": 12,
+        "_id": "68d53d0fb5e77878066ec208"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 80,
+    "total_percentage": 19,
+    "time_collected": "2025-09-24 22:31:02",
+    "last_updated": "09/24/2025 10:26 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 11,
+        "percentage": 18,
+        "_id": "68d4d396ed44786399c9b542"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 24,
+        "percentage": 37,
+        "_id": "68d4d396ed44786399c9b543"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10,
+        "_id": "68d4d396ed44786399c9b544"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 14,
+        "percentage": 31,
+        "_id": "68d4d396ed44786399c9b545"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4d396ed44786399c9b546"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4d396ed44786399c9b547"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4d396ed44786399c9b548"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 27,
+        "percentage": 54,
+        "_id": "68d4d396ed44786399c9b549"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 85,
+    "total_percentage": 20,
+    "time_collected": "2025-09-24 22:01:03",
+    "last_updated": "09/24/2025 09:30 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 15,
+        "percentage": 25,
+        "_id": "68d4cc8f938d415b5e113a99"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 23,
+        "percentage": 35,
+        "_id": "68d4cc8f938d415b5e113a9a"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 11,
+        "percentage": 28,
+        "_id": "68d4cc8f938d415b5e113a9b"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 11,
+        "percentage": 24,
+        "_id": "68d4cc8f938d415b5e113a9c"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4cc8f938d415b5e113a9d"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4cc8f938d415b5e113a9e"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 2,
+        "percentage": 2,
+        "_id": "68d4cc8f938d415b5e113a9f"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 23,
+        "percentage": 46,
+        "_id": "68d4cc8f938d415b5e113aa0"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 125,
+    "total_percentage": 29,
+    "time_collected": "2025-09-24 21:01:07",
+    "last_updated": "09/24/2025 08:31 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 34,
+        "percentage": 57,
+        "_id": "68d4be83db94a8dddf4c8c93"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 28,
+        "percentage": 43,
+        "_id": "68d4be83db94a8dddf4c8c94"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 12,
+        "percentage": 30,
+        "_id": "68d4be83db94a8dddf4c8c95"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 8,
+        "percentage": 18,
+        "_id": "68d4be83db94a8dddf4c8c96"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4be83db94a8dddf4c8c97"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4be83db94a8dddf4c8c98"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4be83db94a8dddf4c8c99"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 43,
+        "percentage": 86,
+        "_id": "68d4be83db94a8dddf4c8c9a"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 123,
+    "total_percentage": 28,
+    "time_collected": "2025-09-24 19:31:01",
+    "last_updated": "09/24/2025 07:29 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 39,
+        "percentage": 65,
+        "_id": "68d4a966f9189a3c0408c956"
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 27,
+        "percentage": 42,
+        "_id": "68d4a966f9189a3c0408c957"
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 8,
+        "percentage": 20,
+        "_id": "68d4a966f9189a3c0408c958"
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 11,
+        "percentage": 24,
+        "_id": "68d4a966f9189a3c0408c959"
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4a966f9189a3c0408c95a"
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4a966f9189a3c0408c95b"
+      },
+      {
+        "place_name": "*Collins Court",
+        "population": 0,
+        "percentage": 0,
+        "_id": "68d4a966f9189a3c0408c95c"
+      },
+      {
+        "place_name": "Room 1258",
+        "population": 38,
+        "percentage": 76,
+        "_id": "68d4a966f9189a3c0408c95d"
+      }
+    ],
+    "__v": 0
+  }
+]
